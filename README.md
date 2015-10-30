@@ -3,4 +3,4 @@ caketest
 ========
 
 issue001に対応！
-issue003に対応！
+issue003に対応!!!
